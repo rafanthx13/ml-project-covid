@@ -1,4 +1,4 @@
-# projeto_eda_covid
+# Projeto de análise de dados do covid
 
 Projeto 3 do bootcamp de ciência de dados da Unimed-bh
 
